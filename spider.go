@@ -5,7 +5,7 @@ import (
 	"crypto/md5"
 	"errors"
 	"fmt"
-	"go-common/app/service/ops/log-agent/pkg/bufio"
+	"bufio"
 	"math/rand"
 	"net/url"
 	"os"
